@@ -1,142 +1,142 @@
 [[Gloo]]
 arch = "aarch64"
-git-tree-sha1 = "badb91c208e81aa68c88ff89feaa48174df7f2dc"
+git-tree-sha1 = "2ebf4ab72a360d576b53dbbff50c689ebcd0a594"
 os = "macos"
 
     [[Gloo.download]]
-    sha256 = "c2402ec687977c3cf2a609d0ea8ac36555cac1017e03fc3a4477e8cc7c965453"
-    url = "https://github.com/JuliaBinaryWrappers/Gloo_jll.jl/releases/download/Gloo-v0.0.20200317+0/Gloo.v0.0.20200317.aarch64-apple-darwin.tar.gz"
+    sha256 = "00fefe6c46d63aa0585a9c1708fe5dc23f2774a012ce5f34377ce95619cc2010"
+    url = "https://github.com/JuliaBinaryWrappers/Gloo_jll.jl/releases/download/Gloo-v0.0.20200910+0/Gloo.v0.0.20200910.aarch64-apple-darwin.tar.gz"
 [[Gloo]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "26a703a44d674c7a9ee8dace77124251bb65c7f3"
+git-tree-sha1 = "546e165f67831ec96404b93c5bc0f9935fd7700e"
 libc = "glibc"
 os = "linux"
 
     [[Gloo.download]]
-    sha256 = "d3946aba74a922e2ed29e8c04e151189673659fdb7e0aa05fc2b5b9c7211639f"
-    url = "https://github.com/JuliaBinaryWrappers/Gloo_jll.jl/releases/download/Gloo-v0.0.20200317+0/Gloo.v0.0.20200317.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "a67e543d8a3b1f6be4fb7869ce02949f973b78888f944894f7dd86d114e6ac7d"
+    url = "https://github.com/JuliaBinaryWrappers/Gloo_jll.jl/releases/download/Gloo-v0.0.20200910+0/Gloo.v0.0.20200910.aarch64-linux-gnu-cxx03.tar.gz"
 [[Gloo]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1cb0d905ce40fc9a5640ab41b8c41207df34eb5d"
+git-tree-sha1 = "402fbf2054c3e88f0d210a3f8f1b7cb396d972d3"
 libc = "glibc"
 os = "linux"
 
     [[Gloo.download]]
-    sha256 = "e1a0d9e3196be74854f724d0f0ac72fb13f40f32cc3baa6f1e8b0963321b4a24"
-    url = "https://github.com/JuliaBinaryWrappers/Gloo_jll.jl/releases/download/Gloo-v0.0.20200317+0/Gloo.v0.0.20200317.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "ac3a0bf13aae7c40c1ee517cfdac56099c4c271d549759a09df3e79d88330d8e"
+    url = "https://github.com/JuliaBinaryWrappers/Gloo_jll.jl/releases/download/Gloo-v0.0.20200910+0/Gloo.v0.0.20200910.aarch64-linux-gnu-cxx11.tar.gz"
 [[Gloo]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "bf616bebcd77dd9598d01ed68e7a71b426fc0f99"
+git-tree-sha1 = "308479c0c991cb6a5114eb7ab1b291619d5c6fb4"
 libc = "musl"
 os = "linux"
 
     [[Gloo.download]]
-    sha256 = "3353a8a255760eb40140ca6cc6a4e795922b8830ec8edef23bed65f00aaa9729"
-    url = "https://github.com/JuliaBinaryWrappers/Gloo_jll.jl/releases/download/Gloo-v0.0.20200317+0/Gloo.v0.0.20200317.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "94047c8c096e1e6b1686f426490cacfb99fd340aa05d596d80d0e854971f3a1d"
+    url = "https://github.com/JuliaBinaryWrappers/Gloo_jll.jl/releases/download/Gloo-v0.0.20200910+0/Gloo.v0.0.20200910.aarch64-linux-musl-cxx03.tar.gz"
 [[Gloo]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "06f408cb162321d996e83b9bf7eb051d8611144d"
+git-tree-sha1 = "5b0f7661a144bfa84bd8933aa95ef635774cfc36"
 libc = "musl"
 os = "linux"
 
     [[Gloo.download]]
-    sha256 = "30206ebf9c45d048584cf8bb4f700faa593d0702da1df3ed7532ef9d0513d041"
-    url = "https://github.com/JuliaBinaryWrappers/Gloo_jll.jl/releases/download/Gloo-v0.0.20200317+0/Gloo.v0.0.20200317.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "781843e296b3f1086ed9fad9179435e73cb6184b7a9fd122f2a2c2f50369e61f"
+    url = "https://github.com/JuliaBinaryWrappers/Gloo_jll.jl/releases/download/Gloo-v0.0.20200910+0/Gloo.v0.0.20200910.aarch64-linux-musl-cxx11.tar.gz"
 [[Gloo]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ab350d654360d719184e6da7904b4f95a880ff85"
+git-tree-sha1 = "91eb2a1207fdb564cb758afbafc90f75d64ca930"
 libc = "glibc"
 os = "linux"
 
     [[Gloo.download]]
-    sha256 = "250ec83396567654223801ff13da94ed7cc0480dc144a4f35bc66a87c2e33392"
-    url = "https://github.com/JuliaBinaryWrappers/Gloo_jll.jl/releases/download/Gloo-v0.0.20200317+0/Gloo.v0.0.20200317.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "e435a59b67d82677ea4aa9b3aa574675596b301014d2d9db13df0196155d13b4"
+    url = "https://github.com/JuliaBinaryWrappers/Gloo_jll.jl/releases/download/Gloo-v0.0.20200910+0/Gloo.v0.0.20200910.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[Gloo]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1e428efb74f3eb55ff1536f005aaed55152e8b0e"
+git-tree-sha1 = "f593875bcf74dde121875b15abedc079fc2d09ee"
 libc = "glibc"
 os = "linux"
 
     [[Gloo.download]]
-    sha256 = "b485f2163c1f82090b6592578b70ce475462a4203b548617c8f092ae8b1ef858"
-    url = "https://github.com/JuliaBinaryWrappers/Gloo_jll.jl/releases/download/Gloo-v0.0.20200317+0/Gloo.v0.0.20200317.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "76e68e1948ee87ff3343f81f79e75d300fdcf113c4b6d4f719c3f3441ec7fc73"
+    url = "https://github.com/JuliaBinaryWrappers/Gloo_jll.jl/releases/download/Gloo-v0.0.20200910+0/Gloo.v0.0.20200910.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[Gloo]]
 arch = "x86_64"
-git-tree-sha1 = "d5f84db00338d04d20440686134ca7689948a77b"
+git-tree-sha1 = "320f938bbd4863491906dc865ecde901635d5240"
 os = "macos"
 
     [[Gloo.download]]
-    sha256 = "ed248225c65b6c3b8e61054931fc057cbc94f2d4c5d065894200462de20b716a"
-    url = "https://github.com/JuliaBinaryWrappers/Gloo_jll.jl/releases/download/Gloo-v0.0.20200317+0/Gloo.v0.0.20200317.x86_64-apple-darwin.tar.gz"
+    sha256 = "94fb0c874d19926c68bf5bc68e9e4674d1ff12f268661cb06cdc82fbf3eba1de"
+    url = "https://github.com/JuliaBinaryWrappers/Gloo_jll.jl/releases/download/Gloo-v0.0.20200910+0/Gloo.v0.0.20200910.x86_64-apple-darwin.tar.gz"
 [[Gloo]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "609461351bfd51add18b4b2a66fa70d27f78e7cd"
+git-tree-sha1 = "fb18648b01d210378cd13131a9cd02c0f726d97a"
 libc = "glibc"
 os = "linux"
 
     [[Gloo.download]]
-    sha256 = "902807d0db2defdfc0875503abf41fd8b5381f8556d94ae4d4631dd8fcaf0e5c"
-    url = "https://github.com/JuliaBinaryWrappers/Gloo_jll.jl/releases/download/Gloo-v0.0.20200317+0/Gloo.v0.0.20200317.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "24afbeb1bdfc329c9bac1248ac2fc9d05630be916be625acd9c99df6c3101d27"
+    url = "https://github.com/JuliaBinaryWrappers/Gloo_jll.jl/releases/download/Gloo-v0.0.20200910+0/Gloo.v0.0.20200910.x86_64-linux-gnu-cxx03.tar.gz"
 [[Gloo]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f8d691071d1e9de95e17cb1fd87d4fc8b21062da"
+git-tree-sha1 = "43497257e5a55d23efda350aee850b7b001f750e"
 libc = "glibc"
 os = "linux"
 
     [[Gloo.download]]
-    sha256 = "bad39c647fc3a87e2ce6756d5d6379ea9f31917a5a6d61d34f92ebd4251f69eb"
-    url = "https://github.com/JuliaBinaryWrappers/Gloo_jll.jl/releases/download/Gloo-v0.0.20200317+0/Gloo.v0.0.20200317.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "f72ab669d33ede56dda6f20df44f6c8d7c8de8d6d551794830aac3e2b406d120"
+    url = "https://github.com/JuliaBinaryWrappers/Gloo_jll.jl/releases/download/Gloo-v0.0.20200910+0/Gloo.v0.0.20200910.x86_64-linux-gnu-cxx11.tar.gz"
 [[Gloo]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "290ef70380b0034a417cd1b92020e000116783dc"
+git-tree-sha1 = "82ff7fee2fe0c4739ebcc43ffc2384f57dea2680"
 libc = "musl"
 os = "linux"
 
     [[Gloo.download]]
-    sha256 = "0e8bfed8d68f46b68f02e3e00f872b1bee2a00a662abd48a1ff3459596e3660c"
-    url = "https://github.com/JuliaBinaryWrappers/Gloo_jll.jl/releases/download/Gloo-v0.0.20200317+0/Gloo.v0.0.20200317.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "41e6b975f0d0409f105b3fc0299a655eeab7c0d56e78ad223aae8c11d3531037"
+    url = "https://github.com/JuliaBinaryWrappers/Gloo_jll.jl/releases/download/Gloo-v0.0.20200910+0/Gloo.v0.0.20200910.x86_64-linux-musl-cxx03.tar.gz"
 [[Gloo]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1d8a5dbd8a91d93f498b9d91bf371b3673f9d6c4"
+git-tree-sha1 = "9d066500751b6460f22d290fb8427593efcb9e67"
 libc = "musl"
 os = "linux"
 
     [[Gloo.download]]
-    sha256 = "99f8186e5c5e8d1c36f56c403ae93b4010e7bf011c8a583bdde076b24ec59b42"
-    url = "https://github.com/JuliaBinaryWrappers/Gloo_jll.jl/releases/download/Gloo-v0.0.20200317+0/Gloo.v0.0.20200317.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "85e5915de50d4441e3912592b96f87e05dede2b932ad3575c8b88dd62f5759b4"
+    url = "https://github.com/JuliaBinaryWrappers/Gloo_jll.jl/releases/download/Gloo-v0.0.20200910+0/Gloo.v0.0.20200910.x86_64-linux-musl-cxx11.tar.gz"
 [[Gloo]]
 arch = "x86_64"
-git-tree-sha1 = "57d4c35d6066e54ae4b69b19f154cc9af8ca0ac7"
+git-tree-sha1 = "4fb4639fb3e4239c36591ffc40d4d74b4b2b80ab"
 os = "freebsd"
 
     [[Gloo.download]]
-    sha256 = "d1cb723d0c88f096b33c43f8e14dd32c0947da27da11f59e844782d53465ce4e"
-    url = "https://github.com/JuliaBinaryWrappers/Gloo_jll.jl/releases/download/Gloo-v0.0.20200317+0/Gloo.v0.0.20200317.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "98618f975cc5d6fa8633c6ff4152acaf776c33d4910ab8bc3e84da28cc4050c4"
+    url = "https://github.com/JuliaBinaryWrappers/Gloo_jll.jl/releases/download/Gloo-v0.0.20200910+0/Gloo.v0.0.20200910.x86_64-unknown-freebsd.tar.gz"
 [[Gloo]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e1ffeee52ef03662df74ffb1aca30d0530697c5c"
+git-tree-sha1 = "931860fcb436c9daf411349c7e528f6c4961058a"
 os = "windows"
 
     [[Gloo.download]]
-    sha256 = "7cb182967dc39bd7c5cec19ccab83002175b68ae33648458d40dca5e44fa5595"
-    url = "https://github.com/JuliaBinaryWrappers/Gloo_jll.jl/releases/download/Gloo-v0.0.20200317+0/Gloo.v0.0.20200317.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "670c3e40cd6d09c8ffd81b2386ffdf107372cc551c9f29cc8bbf5510e3568276"
+    url = "https://github.com/JuliaBinaryWrappers/Gloo_jll.jl/releases/download/Gloo-v0.0.20200910+0/Gloo.v0.0.20200910.x86_64-w64-mingw32-cxx03.tar.gz"
 [[Gloo]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e919bec30edd0b6ca018a6adafcb930e0226cc4b"
+git-tree-sha1 = "9d1c8a6bdbbcf799f449d399f7adece654ae7ec8"
 os = "windows"
 
     [[Gloo.download]]
-    sha256 = "71bec38718880e22fad6091b4e897f39fe599ab29ef198d3702d3d0c90ce1327"
-    url = "https://github.com/JuliaBinaryWrappers/Gloo_jll.jl/releases/download/Gloo-v0.0.20200317+0/Gloo.v0.0.20200317.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "cb328a37e34ecf2e78ce39bcbf1e651bf734eadf636ae24f53d5c383bf9315ad"
+    url = "https://github.com/JuliaBinaryWrappers/Gloo_jll.jl/releases/download/Gloo-v0.0.20200910+0/Gloo.v0.0.20200910.x86_64-w64-mingw32-cxx11.tar.gz"
