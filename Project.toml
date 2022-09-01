@@ -1,6 +1,6 @@
 name = "Gloo_jll"
 uuid = "5909ec93-c24e-5240-9f48-bc73cd7db194"
-version = "0.0.20200910+0"
+version = "0.0.20210521+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
